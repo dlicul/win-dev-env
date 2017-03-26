@@ -1,0 +1,7 @@
+https://github.com/git-for-windows/git/releases/download/v2.12.1.windows.1/Git-2.12.1-64-bit.exe
+http://download.mobatek.net/10220170312132617/MobaXterm_Installer_v10.2.zip
+https://download.sublimetext.com/Sublime%20Text%20Build%203126%20x64%20Setup.exe
+http://code.visualstudio.com/Download
+https://nodejs.org/dist/v6.10.1/node-v6.10.1-x64.msi
+
+
